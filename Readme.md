@@ -1,4 +1,4 @@
-# Final Project: Herd Immunity Simulation
+# Herd Immunity Simulation
 
 _Imagine you have been hired at a new startup focused on health and medicine --- and the World Health Organization needs your skills as programmatic pandemic simulation specialist!_
 
