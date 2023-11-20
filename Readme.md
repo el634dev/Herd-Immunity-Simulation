@@ -13,8 +13,6 @@ _Imagine you have been hired at a new startup focused on health and medicine ---
   - [Repository Setup](#%72%65%70%6F%73%69%74%6F%72%79%2D%73%65%74%75%70)
   - [Running the Program](#%72%75%6E%6E%69%6E%67%2D%74%68%65%2D%70%72%6F%67%72%61%6D)
   - [Basic Structure](#%62%61%73%69%63%2D%73%74%72%75%63%74%75%72%65)
-- [**Tips for Success**](#%74%69%70%73%2D%66%6F%72%2D%73%75%63%63%65%73%73)
-- [**Project Completion**](#%70%72%6F%6A%65%63%74%2D%63%6F%6D%70%6C%65%74%69%6F%6E)
 - [**Stretch Challenges**](#%73%74%72%65%74%63%68%2D%63%68%61%6C%6C%65%6E%67%65%73)
 - [**FAQs**](#%66%61%71%73)
 
