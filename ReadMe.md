@@ -115,13 +115,10 @@ The program consists of 4 classes: `Person`, `Virus`, `Simulation`, and `Logger`
 
 When you run `simulation.py` with the corresponding command-line arguments necessary for a simulation, a simulation object is created. This simulation object then calls the `.run()` method. This method should continually check if the simulation needs to run another step using a helper method contained in the class, and then call `.time_step()` if the simulation has not ended yet. Within the `time_step()` method, you'll find all the logic necessary for actually simulating everything--that is, once you write it. As is, the file just contains a bunch of method stubs, as well as numerous comments for explaining what you need to do to get everything working.
 
+<!--
 ## Tips for Success
 
 First, take a look at each of the files. Get a feel for the methods and attributes in each. Feel overwhelmed? Don't panic. Instead, get out a piece of paper or a whiteboard and try to diagram what needs to happen and when using each of the objects and methods. Draw out the data flow.
-
-### Not Sure? Talk to Classmates & Ask for Help
-
-Ask your classmates and teachers for clarification/help/code reviews as needed, or drop in to tutoring hours. Share your questions and insights in the course Slack channel, or book some time to get help from Justin and Phyllis, the course teaching assistants. Collaboration is encouraged, but be sure that you typed in all the code yourself and the final project is your own!
 
 ### Found a Bug or Problem? 
 
@@ -134,6 +131,7 @@ If you think something doesn't make sense, double check with your classmates or 
 Starting by thinking about your test cases and aiming for good test coverage is a great way to vaccinate yourself against any pre-existing bugs in the template. 
  
  Not sure how to write tests? Look at the tests for the Super Hero project and utilize some strategies from those tests.
+
 
 ## Project Completion
 
@@ -148,6 +146,7 @@ Starting by thinking about your test cases and aiming for good test coverage is 
 - Your answers to the [questions asked above](#answer-these-questions) listed in a file named `answers.txt`.
 - Include a `.gitignore`
 - Submit your completed repo to Gradescope
+--> 
 
 ## Stretch Challenges
 
